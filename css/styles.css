@@ -67,3 +67,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.laureclass {
+    color: #06062C;
+    font-weight: bold;
+}
